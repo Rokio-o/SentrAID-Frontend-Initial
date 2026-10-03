@@ -1,0 +1,10 @@
+{
+  "description": "Streamline emergency incident reporting and responder coordination for citizens and responders with intelligent image classification and real-time updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
